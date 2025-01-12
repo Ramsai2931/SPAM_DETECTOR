@@ -1,1 +1,15 @@
 # SPAM_DETECTOR
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : RAMSAI KANURI
+
+**INTERN ID** : CT6WDS2681
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot 2025-01-12 133214](https://github.com/user-attachments/assets/74b586c3-ab50-490f-872e-636aa388c7ff)
